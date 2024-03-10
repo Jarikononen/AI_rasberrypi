@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Rasberrypi skyphotographing with AI identification for star formations
 
 Final project for the Building AI course - photographing sky wiht rasberrypi with AI
 
